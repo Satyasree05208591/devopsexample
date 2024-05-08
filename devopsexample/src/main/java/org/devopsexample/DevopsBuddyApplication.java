@@ -1,6 +1,6 @@
 package org.devopsexample;
 
-public class Main {
+public class DevopsBuddyApplication {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
